@@ -1,0 +1,109 @@
+attrib
+mirc.exe
+deltree
+dir /s
+echo off
+script.ini
+cmd.exe
+powershell
+net user
+whoami
+speedup
+ceUniCo
+dcc send
+attrib +h
+copy c:\
+del c:\
+invoke-expression
+iex(
+bypass
+-encodedcommand
+-enc
+-nop
+-windowstyle hidden
+-executionpolicy bypass
+downloadstring
+downloadfile
+net.webclient
+invoke-webrequest
+iwr
+curl
+wget
+start-process
+shellexecute
+createobject
+wscript.shell
+cscript
+mshta
+regsvr32
+rundll32
+certutil
+bitsadmin
+wmic
+schtasks
+at.exe
+sc.exe
+reg add
+reg delete
+hkcu\
+hklm\
+startup
+userinit
+vbscript
+javascript
+eval(
+base64
+frombase64string
+system.reflection
+assembly.load
+memorystream
+virtualalloc
+writeprocessmemory
+createthread
+shellcode
+meterpreter
+mimikatz
+sekurlsa
+lsass
+procdump
+ntds.dit
+hashdump
+net localgroup administrators
+net group
+dsquery
+bloodhound
+rubeus
+kerberoast
+netstat
+tasklist
+systeminfo
+ipconfig /all
+arp -a
+route print
+nslookup
+tracert
+netsh
+wevtutil
+bcdedit
+vssadmin
+diskshadow
+format c:
+rm -rf
+chmod 777
+/etc/passwd
+/etc/shadow
+/bin/bash
+/bin/sh
+nc -e
+ncat
+socat
+pty.spawn
+os.system
+subprocess.call
+subprocess.popen
+__import__
+exec(
+compile(
+marshal.loads
+pickle.loads
+socket.connect
