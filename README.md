@@ -208,7 +208,7 @@ reset
 ```
 strings
 
-strings sample.exe
+strings sample.txt
 ```
 
 ---
@@ -241,6 +241,7 @@ Available options
 | `--test` | Run detection |
 | `--report` | Generate report |
 | `--save-payload` | Save processed payload |
+| `--yara` |  scan payload with YARA rules |
 
 ---
 
@@ -300,6 +301,8 @@ use obfuscator reverse
 
 run
 
+yara
+
 test
 
 report
@@ -307,50 +310,7 @@ report
 save payload encoded_payload.txt
 ```
 
----
 
-# Design Goals
-
-- Modular architecture
-- Easily extensible
-- Educational
-- Research-oriented
-- Simple CLI
-- Lightweight
-- Easy to integrate with new encoders and obfuscators
-
----
-
-# Future Improvements
-
-- AES encoder
-- Multi-layer encoding
-- Custom YARA rule management
-- Entropy analysis
-- Binary payload support
-- Plugin system
-- Additional reporting formats
-- More obfuscation techniques
-
----
-
-# Technologies Used
-
-- Python 3
-- Colorama
-- YARA
-- Object-Oriented Design
-
----
-
-# Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a new feature branch
-3. Commit your changes
-4. Submit a Pull Request
 
 ---
 
