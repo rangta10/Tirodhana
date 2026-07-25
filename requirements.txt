@@ -1,0 +1,1 @@
+pip3 install yara-python --break-system-packages

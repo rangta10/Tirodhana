@@ -1,0 +1,11 @@
+# base64 + test + report
+python3 framework.py --payload payloads/test.txt --encoder base64 --test --report
+
+# xor with key + test + report
+python3 framework.py --payload payloads/test.txt --encoder xor --key mysecretkey --test --report
+
+# rot13 + escape + test + report
+python3 framework.py --payload payloads/test.txt --encoder rot13 --obfuscator escape --test --report
+
+# show help
+python3 framework.py --help
