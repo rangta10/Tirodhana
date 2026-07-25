@@ -248,18 +248,40 @@ Available options
 
 ```
 Tirodhana/
-
+│
+├── tirodhana.py             
+│
 ├── modules/
+│   │
 │   ├── encoders/
+│   │   ├── encoder_manager.py
+│   │   ├── base64_encoder.py
+│   │   ├── xor_encoder.py
+│   │   └── rot13_encoder.py
+│   │
 │   ├── obfuscators/
+│   │   ├── obfuscator_manager.py
+│   │   ├── random_insert.py
+│   │   ├── split_concat.py
+│   │   ├── escape_obfuscator.py
+│   │   └── reverse_transform.py
+│   │
 │   ├── detection/
+│   │   ├── signature_engine.py
+│   │   ├── yara_engine.py
+│   │   └── pe_elf_extractor.py
+│   │
 │   ├── reports/
+│   │   └── report_generator.py
+│   │
 │   └── session.py
 │
-├── reports/
-├── payloads/
-├── tirodhana.py
-├── requirements.txt
+├── payloads/                   # Sample payloads
+├── outputs/                    # Processed payloads
+├── reports/                    # Generated reports
+├── sessions/                   # Saved sessions
+├── yara_rules.yar              # YARA rules
+├── signatures.txt              # Detection signatures
 └── README.md
 ```
 
